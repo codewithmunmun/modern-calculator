@@ -80,7 +80,7 @@ Use the standalone ```calculator.html``` file for quick access without downloadi
 
 
 ## License
-This project is licensed under the [MIT License](MIT License).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 Developed by [Munmun Kumari](https://github.com/codewithmunmun) - feel free to reach out for any questions or collaborations!
