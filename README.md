@@ -1,5 +1,10 @@
-# 🧮 Modern Calculator
+# Modern Calculator
 A sleek, fully-functional calculator with a modern dark theme, built with vanilla HTML, CSS, and JavaScript. This project demonstrates clean front-end development practices with a responsive design that works seamlessly across devices.
+
+## 📸 Preview
+<p align="center">
+  <img src="images/Screenshot 2025-08-28 222434.png" alt="Modern Calculator" width="50%" />
+</p>
 
 ## ✨ Features
 - Basic Arithmetic Operations: Addition, subtraction, multiplication, and division
@@ -11,26 +16,12 @@ A sleek, fully-functional calculator with a modern dark theme, built with vanill
 - Clean Interface: Intuitive layout with visual feedback
 
 ## 🛠️ Built With
-- HTML5: Semantic structure and accessibility
-- CSS3: Modern styling with Flexbox and Grid layouts
-- JavaScript (ES6): Clean, vanilla JavaScript with class-based architecture
-- No Dependencies: 100% vanilla code with zero external libraries
-
-## 🚀 Getting Started
-### Prerequisites
-- Just a modern web browser! No installations required.
-
-### Installation
-1. Clone the repo:
-    ```
-    git clone https://github.com/codewithmunmun/modern-calculator.git
-    ```
-2. Open ```index.html``` in your browser
-3. Start calculating!
-
-### Alternative: Single File Usage
-Use the standalone ```calculator.html``` file for quick access without downloading multiple files.
-
+| Technology | Description |
+|-------------|------------|
+| **HTML5** | Markup for structure |
+| **CSS3** | Styling and layout |
+| **JavaScript (ES6)** | Logic and interactivity |
+| **Git & GitHub** | Version control and hosting |
 
 ## 📁 Project Structure
 ```
@@ -38,8 +29,26 @@ modern-calculator/
 ├── index.html          # Main HTML document
 ├── styles.css          # Styling and responsive design
 ├── script.js           # Calculator functionality and logic
+├── LICENSE             # MIT License
 └── README.md           # Project documentation
 ```
+
+## 🚀 Getting Started
+### Prerequisites
+- Just a modern web browser! No installations required.
+
+### Installation
+1. Clone the repo:
+    ```bash
+    git clone https://github.com/codewithmunmun/modern-calculator.git
+    cd modern-calculator
+    ```
+2. Open ```index.html``` in your browser
+3. Start calculating!
+
+### Alternative: Single File Usage
+Use the standalone ```calculator.html``` file for quick access without downloading multiple files.
+
 
 ## Usage
 - Click buttons or use your keyboard to input numbers and operations
@@ -54,14 +63,24 @@ modern-calculator/
 - Responsive Design: Adapts beautifully to different screen sizes
 - Cross-Browser Compatible: Works on all modern browsers
 
-## Customization
-Easily customize the calculator by modifying CSS variables for colors, sizes, and transitions to match your preferred theme.
+
+## 🤝 Contributing
+- Contributions are welcome!
+- To contribute:
+    1. Fork the repository.
+    2. Create a feature branch:
+    ``` bash
+    git checkout -b feature/AmazingFeature
+    ```
+    3. Commit your changes:
+    ``` bash
+    git commit -m 'Describe your changes'
+    ```
+    4. Push to the branch and create a pull request.
+
 
 ## License
-This project is open source and available under the MIT License.
-
-## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+This project is licensed under the [MIT License](MIT License).
 
 ## Contact
-Created by Munmun - feel free to reach out for any questions or collaborations!
+Developed by [Munmun Kumari](https://github.com/codewithmunmun) - feel free to reach out for any questions or collaborations!
